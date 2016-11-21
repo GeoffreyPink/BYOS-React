@@ -1,0 +1,20 @@
+{
+  "name": "BYOS",
+  "version": "1.0.0",
+  "description": "Initialization of the BYOS Step-by-Step Process for le very noob that I am.\r ---\r Do not laugh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffreyPink/BYOS-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeoffreyPink/BYOS-React/issues"
+  },
+  "homepage": "https://github.com/GeoffreyPink/BYOS-React#readme"
+}
